@@ -36,11 +36,7 @@
 <p style="text-align: left;">It has used external plugins library like jquery UI, fancybox for viewing product images on a detail page, and bxslider to slide products on the home page.</p>
 <p style="text-align: left;">Also, it has used free stock images, icons, and google Roboto font.</p>
 <p style="text-align: left;">Beautiful flat style HTML5 website template with clean code to edit easily well-commented sections.</p>
-<p><strong>Credit &amp; Miscellaneous Info</strong></p>
-<ul>
- 
- 	<li>BX Slider is used as a link source.</li>
-</ul>
+
 
 <p><strong>Page layout includes:</strong></p>
 <ul>
