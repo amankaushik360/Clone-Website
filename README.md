@@ -1,4 +1,4 @@
-<h2><span style="font-size: medium;">Khaki - HTML E-commerce Online Shop</span></h2>
+<h2><span style="font-size: medium;">Myntra Clone Online Shop</span></h2>
 <table class="post-table">
 <thead>
 <tr>
@@ -10,7 +10,7 @@
 <tbody>
 <tr>
 <td>HTML, CSS, Javascript/JQuery</td>
-<td>Non-Responsive | Multi Page Template</td>
+<td>Front end | Multi Page Template</td>
 <td>No</td>
 </tr>
 </tbody>
